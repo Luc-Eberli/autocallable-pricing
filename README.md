@@ -1,5 +1,5 @@
 # Pricing Model: Gold linked BRC Autocallable
-The model prices an autocallable Barrier Reverse Convertible from UBS AG, linked to gold. 
+The model prices an autocallable Barrier Reverse Convertible from UBS AG linked to gold. 
 
 Product ISIN: CH1522817944
 
